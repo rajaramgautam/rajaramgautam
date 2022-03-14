@@ -2,7 +2,7 @@
 Proud Army Veteran and Serving Army Reserve as Information Technology Specialist with active secret clearance. Enhancing my skills to be Data Scientist who will add value to your business by helping you make decision based on data. Self-motivated, result oriented, team player, and autodidact data scientist looking to make a difference via data to decision.
 
 ### TECHNICAL SKILLS:
-|   Skills  | Skills      | Skills     |
+|   Skills  |            |           |
 | ------------- | ------------- | -------- |
 |   SQL   | Python      | Tableau     |
 | Matplotlib	         | Seaborn	         | Applied Statistics  |
